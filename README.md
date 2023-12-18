@@ -44,9 +44,9 @@ Skils used in this project:
 
 # Employe's-Assistant
 
-The appliaction for those who working by hourly tarrif
-With this application you can easy write down and store your working hours
-Project currently is under development
+The appliaction for those who working by hourly tarrif.
+With this application you can easy write down and store your working hours.
+Project currently is under development.
 Skils used in this project:
  - Swift programming language
  - SwiftUI framework
@@ -55,7 +55,7 @@ Skils used in this project:
  - Swift charts
 
 
-Here you can creare a new month and set a hour target for this month
+Here you can create a new month and set a hour target for this month
 ![IMG_0290](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/9c59737f-e015-4228-b337-3aff1dd0f73c)
 
 A list of existing months with small progress bar for each of them

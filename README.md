@@ -1,6 +1,47 @@
 # Portfolio
 Wellcome to my portfolio
 
+# Employe's-Assistant
+
+The appliaction for those who working by hourly tarrif.
+With this application you can easy write down and store your working hours.
+Project currently is under development.
+Skils used in this project:
+ - Swift programming language
+ - SwiftUI framework
+ - Core Data
+ - Core Data relationships
+ - Swift charts
+
+
+Here you can create a new month and set a hour target for this month
+![IMG_0290](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/9c59737f-e015-4228-b337-3aff1dd0f73c)
+
+A list of existing months with small progress bar for each of them
+![IMG_0284](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/ecb5906f-ebfe-4f94-8abc-a2817ab38cf3)
+
+A list of working days in one of the months
+![IMG_0285](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/093071a9-ff52-4f0c-9349-3407cb57ff7d)
+
+Here you can set your working day:
+ - when exectly you started your working day
+ - when you finifhed it
+ - and a dinner(pause) time
+and also you can chose a date, if you need to add a day at past
+![IMG_0287](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/b523157c-c87a-4ff0-9a89-71facd1b827b)
+
+Detail view of selected day
+![IMG_0286](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/85d449df-b4eb-46e2-a202-7b81e181a270)
+
+Statistic for current month where you can see a target for this month, current count of hours, current count of 
+worked days,and total salary 
+![IMG_0288](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/816f0577-9114-46ca-8284-7c192292efc0)
+
+And also you can switch between months to take a look on your history
+![IMG_0289](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/142efed0-9b53-4357-9ae3-80f107d16472)
+
+
+
 
 # Calculator 
 Project description
@@ -40,47 +81,6 @@ Skils used in this project:
 ![image_original5](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/4d7e4690-4af5-43ca-ae0d-49d534279c28)
 
 ![image_original6](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/0de1926d-444a-487a-9d85-7323b278b17a)
-
-
-# Employe's-Assistant
-
-The appliaction for those who working by hourly tarrif.
-With this application you can easy write down and store your working hours.
-Project currently is under development.
-Skils used in this project:
- - Swift programming language
- - SwiftUI framework
- - Core Data
- - Core Data relationships
- - Swift charts
-
-
-Here you can create a new month and set a hour target for this month
-![IMG_0290](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/9c59737f-e015-4228-b337-3aff1dd0f73c)
-
-A list of existing months with small progress bar for each of them
-![IMG_0284](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/ecb5906f-ebfe-4f94-8abc-a2817ab38cf3)
-
-A list of working days in one of the months
-![IMG_0285](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/093071a9-ff52-4f0c-9349-3407cb57ff7d)
-
-Here you can set your working day:
- - when exectly you started your working day
- - when you finifhed it
- - and a dinner(pause) time
-   and also you can chose a date, if you need to add a day at past
-![IMG_0287](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/b523157c-c87a-4ff0-9a89-71facd1b827b)
-
-Detail view of selected day
-![IMG_0286](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/85d449df-b4eb-46e2-a202-7b81e181a270)
-
-Statistic for current month where you can see a target for this month, current count of hours, current count of 
-worked days,and total salary 
-![IMG_0288](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/816f0577-9114-46ca-8284-7c192292efc0)
-
-And also you can switch between months to take a look on your history
-![IMG_0289](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/142efed0-9b53-4357-9ae3-80f107d16472)
-
 
 
 

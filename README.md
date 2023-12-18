@@ -9,6 +9,7 @@ Project currently is under development.
 Skils used in this project:
  - Swift programming language
  - SwiftUI framework
+ - MVVM architecture 
  - Core Data
  - Core Data relationships
  - Swift charts

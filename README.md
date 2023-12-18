@@ -42,6 +42,35 @@ Skils used in this project:
 ![image_original6](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/0de1926d-444a-487a-9d85-7323b278b17a)
 
 
+# Employe's-Assistant
+
+The appliaction for those who working by hourly tarrif
+With this application you can easy write down and store your working hours
+Project currently is under development
+Skils used in this project:
+ - Swift programming language
+ - SwiftUI framework
+ - Core Data
+ - Core Data relationships
+ - Swift charts
+
+![IMG_0290](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/9c59737f-e015-4228-b337-3aff1dd0f73c)
+
+![IMG_0284](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/ecb5906f-ebfe-4f94-8abc-a2817ab38cf3)
+
+![IMG_0285](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/093071a9-ff52-4f0c-9349-3407cb57ff7d)
+
+![IMG_0287](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/b523157c-c87a-4ff0-9a89-71facd1b827b)
+
+![IMG_0286](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/85d449df-b4eb-46e2-a202-7b81e181a270)
+
+![IMG_0288](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/816f0577-9114-46ca-8284-7c192292efc0)
+
+![IMG_0289](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/142efed0-9b53-4357-9ae3-80f107d16472)
+
+
+
+
 
 
 

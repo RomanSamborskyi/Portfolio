@@ -1,7 +1,7 @@
 # Portfolio
 Wellcome to my portfolio
 
-# Employe's-Assistant
+# Employee's-Assistant
 
 The appliaction for those who working by hourly tarrif.
 With this application you can easy write down and store your working hours.

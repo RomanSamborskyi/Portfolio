@@ -17,7 +17,7 @@ Skils used in this project:
 
 Here you can create a new month and set a hour target for this month
 
-![IMG_0290](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/9c59737f-e015-4228-b337-3aff1dd0f73c)
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 38 21](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/a33392f3-63e3-403d-a13f-8677c6e1aee2)
 
 A list of existing months with small progress bar for each of them
 

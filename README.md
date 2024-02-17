@@ -63,6 +63,15 @@ Back up your data locally on your phone, the backup file will be saved in the Fi
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 39 08](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/4ba6725a-cb40-4e0b-87de-f534f9c55f70)
 
+You also can change an app icon:
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 39 14](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/68d35e8e-33d7-4e38-92d9-3f052ec7feb9)
+
+And accent color:
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 39 21](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/36dcbaad-0e96-40eb-908d-37ca83fa1aa7)
+
+
 # Calculator 
 Project description
 A simple calculator with a beautiful and bright design and calculation history. There are no ads in it. It does not have the functions of an engineering calculator. But it has an opportunity to customize the interface to your taste, which is available by subscription.

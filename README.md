@@ -56,7 +56,7 @@ And also you can switch between months to take a look on your history
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 38 57](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/90560174-ddd8-436f-a8e6-d7e8839e6126)
 
-In settings view you can choose between dark and light theme, set hourly salary to allow an app calculate monthly salary based on working hours
+In settings view you can choose between dark and light theme, set hourly salary to allow an app to calculate month salary based on working hours
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 39 03](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/2c600e13-66f1-4935-a44a-94bb0eebfe3b)
 

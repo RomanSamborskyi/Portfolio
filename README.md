@@ -21,11 +21,17 @@ Here you can create a new month and set a hour target for this month
 
 A list of existing months with small progress bar for each of them
 
-![IMG_0284](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/ecb5906f-ebfe-4f94-8abc-a2817ab38cf3)
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 38 09](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/7c3a9f18-c9e1-429b-be5a-28b7ef13c164)
 
-A list of working days in one of the months
+A list of working days in one of the months, you can choose between list view and calendar view to display your working days
 
-![IMG_0285](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/093071a9-ff52-4f0c-9349-3407cb57ff7d)
+List view:
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 38 28](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/ac832e23-446c-4383-9548-5d241fcea37f)
+
+Calendar view:
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 38 32](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/bb30de31-5cd5-4121-9572-b6a9efc68ce7)
 
 Here you can set your working day:
  - when exectly you started your working day
@@ -34,20 +40,21 @@ Here you can set your working day:
    
 And also you can chose a date, if you need to add a day at past
 
-![IMG_0287](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/b523157c-c87a-4ff0-9a89-71facd1b827b)
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 48 17](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/95b9919a-2dcf-4c55-8500-6ff48c177ffe)
 
 Detail view of selected day
 
-![IMG_0286](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/85d449df-b4eb-46e2-a202-7b81e181a270)
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 38 41](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/4863a7cc-b9e9-4257-b8b2-6771df0fa575)
 
 Statistic for current month where you can see a target for this month, current count of hours, current count of 
 worked days,and total salary
 
-![IMG_0288](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/816f0577-9114-46ca-8284-7c192292efc0)
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 38 49](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/554cfae0-8739-42f6-9164-b7cef7af79f0)
 
 And also you can switch between months to take a look on your history
 
-![IMG_0289](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/142efed0-9b53-4357-9ae3-80f107d16472)
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 38 57](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/90560174-ddd8-436f-a8e6-d7e8839e6126)
+
 
 
 

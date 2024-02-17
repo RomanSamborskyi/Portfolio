@@ -6,6 +6,7 @@ Wellcome to my portfolio
 The appliaction for those who working by hourly tarrif.
 With this application you can easy write down and store your working hours.
 Project currently is under development.
+
 Skils used in this project:
  - Swift programming language
  - SwiftUI framework

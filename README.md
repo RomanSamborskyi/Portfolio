@@ -14,6 +14,7 @@ Skils used in this project:
  - Core Data
  - Core Data relationships
  - Swift charts
+ - WidgetKit
 
 
 Here you can create a new month and set a hour target for this month

@@ -72,6 +72,9 @@ And accent color:
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 39 21](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/36dcbaad-0e96-40eb-908d-37ca83fa1aa7)
 
+Also you can add a widget to your home screen:
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-18 at 15 06 49](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/8364c3d7-0070-4b3d-a820-b2f746351077)
 
 # Calculator 
 Project description

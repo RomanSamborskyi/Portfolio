@@ -51,11 +51,13 @@ Detail view of selected day
 Statistic for current month where you can see a target for this month, current count of hours, current count of 
 worked days,and total salary
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 38 49](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/554cfae0-8739-42f6-9164-b7cef7af79f0)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 15 42 34](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/72027c7d-b6ff-442d-8260-06a50382c60d)
 
 And also you can switch between months to take a look on your history
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-17 at 11 38 57](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/90560174-ddd8-436f-a8e6-d7e8839e6126)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 15 42 43](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/a9bbdf2d-7406-4f0d-8c4d-154f35368653)
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 15 45 00](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/784e58b6-e7fc-46ad-863a-ee0d7f8230dc)
 
 In settings view you can choose between dark and light theme, set hourly salary to allow an app to calculate month salary based on working hours
 
@@ -75,7 +77,8 @@ And accent color:
 
 Also you can add a widget to your home screen:
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-18 at 15 06 49](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/8364c3d7-0070-4b3d-a820-b2f746351077)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 15 40 56](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/8273f2ba-3770-4350-8478-9cabcf39fae1)
+
 
 # Calculator 
 Project description

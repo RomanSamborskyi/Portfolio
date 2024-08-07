@@ -79,6 +79,45 @@ Also you can add a widget to your home screen:
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-03-09 at 15 40 56](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/8273f2ba-3770-4350-8478-9cabcf39fae1)
 
+# The Rick and Morty API project
+
+Skils used in this project:
+ - Swift programming language
+ - SwiftUI framework
+ - MVVM architecture
+ - REST API
+ - Async/await
+
+List of characters
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 01 24](https://github.com/user-attachments/assets/46786303-474c-471c-ba54-6329b0b6b6e9)
+
+Ability to search a character
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 02 24](https://github.com/user-attachments/assets/98cef000-8268-483b-a183-7f42eb58a070)
+
+Take a look to character detail
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 01 37](https://github.com/user-attachments/assets/45aa9859-734a-46f6-bd5e-839fad72354e)
+
+Filter characters
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 01 30](https://github.com/user-attachments/assets/285c97ce-329c-4850-893f-3012de2bdc68)
+
+List of episodes
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 02 45](https://github.com/user-attachments/assets/e074d382-4fb7-4d35-a6ef-954e51569d21)
+
+Details of episode
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 02 40](https://github.com/user-attachments/assets/fb7383c1-c584-4b02-b2e8-edef3aab3f7f)
+
+List of locations
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 02 56](https://github.com/user-attachments/assets/28113249-bbb2-45ef-8e79-e49842436a71)
+
+Details of location
+
 
 # Calculator 
 Project description
@@ -98,26 +137,6 @@ Skils used in this project:
 
 ![image_original2](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/f53dcd21-0cee-4f56-b4ff-c0c5e7aba72a)
 
-# MovieList+
-
-Movie HD MovieList+ is a feature-packed application available on the App Store that caters to the needs of movie lovers. With a vast collection of movies and a range of convenient features, HD MovieList+ is a must-have app for anyone who enjoys watching movies.
-Skils used in this project:
-  - Swift pogramming language
-  - SwiftUI framework
-  - Rest Api
-  - WebView
-
-![image_original1](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/c7ce2898-d64a-411c-ae48-bcc9690c2897)
-
-![image_original2](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/36a79f93-6620-44a5-a048-250650c42cfd)
-
-![image_original3](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/a6909b13-1b46-44d5-97e7-80674ea4b928)
-
-![image_original4](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/51cdd282-e363-4f49-bee2-a4d9a5abea43)
-
-![image_original5](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/4d7e4690-4af5-43ca-ae0d-49d534279c28)
-
-![image_original6](https://github.com/RomanSamborskyi/Portfolio/assets/82052893/0de1926d-444a-487a-9d85-7323b278b17a)
 
 
 

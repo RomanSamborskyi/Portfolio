@@ -30,6 +30,9 @@ The app will meet you with onboarding screens, where you can read some short ins
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 24 06 Medium](https://github.com/user-attachments/assets/2db72f23-68f8-4dbb-9522-e9ed6e52e4dc)
 
+Months list view
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 51 29 Medium](https://github.com/user-attachments/assets/fbac050e-c83c-414f-8b82-4ecf85c0d390)
 
 A list of existing months
 

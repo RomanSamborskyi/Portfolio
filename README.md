@@ -31,7 +31,7 @@ The app will meet you with onboarding screens, where you can read some short ins
 ![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 24 06 Medium](https://github.com/user-attachments/assets/2db72f23-68f8-4dbb-9522-e9ed6e52e4dc)
 
 
-A list of existing months with small progress bar for each of them
+A list of existing months
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 32 21 Medium](https://github.com/user-attachments/assets/d6163bfc-71ce-45b1-8f1b-ab07a23a18c6)
 

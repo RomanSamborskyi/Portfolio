@@ -121,23 +121,16 @@ Skils used in this project:
  - REST Full API
  - async/await
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 56 18 Medium](https://github.com/user-attachments/assets/30ce2241-4806-40a4-b2ec-236274b2d5b6)
+![Simulator Screenshot - iPhone 16 Pro - 2024-09-22 at 18 58 47](https://github.com/user-attachments/assets/a80995a6-9dff-40eb-a022-7897ac71604b)
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 57 00 Medium](https://github.com/user-attachments/assets/390d512c-2474-4787-a2a7-b74c5bf7140e)
+![Simulator Screenshot - iPhone 16 Pro - 2024-09-22 at 18 59 58](https://github.com/user-attachments/assets/85a6e94a-8297-42d7-b82b-8cff78d9ed38)
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 57 23 Medium](https://github.com/user-attachments/assets/24f28af1-b51e-4927-a9ef-cf25a7c07d8d)
+![Simulator Screenshot - iPhone 16 Pro - 2024-09-22 at 18 59 17](https://github.com/user-attachments/assets/d22a78f3-582c-408d-8de6-999affe19898)
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 57 07 Medium](https://github.com/user-attachments/assets/1f42fa26-b83d-440f-b4f8-3889de772e04)
-
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 57 33 Medium](https://github.com/user-attachments/assets/b944fac7-d057-4c0a-82df-69f58efdeeab)
-
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 56 53 Medium](https://github.com/user-attachments/assets/6b217753-6876-44b4-afba-dc8589b2f23a)
-
+![Simulator Screenshot - iPhone 16 Pro - 2024-09-22 at 18 59 38](https://github.com/user-attachments/assets/1c234d7a-1bee-4639-9c37-5413fd1404eb)
 
 
 # The Rick and Morty API project

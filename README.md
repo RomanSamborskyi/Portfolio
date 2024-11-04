@@ -99,7 +99,7 @@ Also you can add a widget to your home screen:
 ![Simulator Screenshot - iPhone 15 Pro - 2024-08-07 at 09 35 42 Medium](https://github.com/user-attachments/assets/517c9c4b-e9ba-4a21-9049-3ce95032e437)
 
 
-# TMDB Client
+### [TMDB Client](https://github.com/RomanSamborskyi/TMDB_Client)
 
 # This application uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB
 

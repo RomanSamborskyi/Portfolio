@@ -1,7 +1,7 @@
 # Portfolio
 Wellcome to my portfolio
 
-# Employe-s-Assistant
+### [Employe-s-Assistant](https://github.com/RomanSamborskyi/Employee-s-Assistant)
 Employe's Assistant app 
 
 The appliaction for those who working by hourly tarrif.
@@ -133,7 +133,7 @@ Skils used in this project:
 ![Simulator Screenshot - iPhone 16 Pro - 2024-09-22 at 18 59 38](https://github.com/user-attachments/assets/1c234d7a-1bee-4639-9c37-5413fd1404eb)
 
 
-# The Rick and Morty API project
+### [The Rick and Morty API project](https://github.com/RomanSamborskyi/TheRickAndMortyAPIProject)
 
 Skils used in this project:
  - Swift programming language
